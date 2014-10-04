@@ -41,6 +41,8 @@ Feel free to add more via PR.
 	* dedupe
 	* bundleddependencies
 	* using private modules to deploy prototypes
+* deploying services with ndm
+	* @benjamincoe blows your mind
 * stupid npm tricks
 	* beep boop
 * entertainment: dance.js 2.0.0!
