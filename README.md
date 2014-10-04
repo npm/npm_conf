@@ -19,6 +19,7 @@ Feel free to add more via PR.
 * npm for Front End
 	* what you can do right now
 		* browserify
+		* atomify
 		* bower
 		* angular cli
 		* ember cli
