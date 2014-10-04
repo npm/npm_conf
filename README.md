@@ -12,6 +12,7 @@ Feel free to add more via PR.
 	* peer dependencies
 	* files & npmignore
 	* incorporating build steps
+	* making stuff work on Windows too
 * npm Enterprise
 	* what it is
 	* deployment case studies
