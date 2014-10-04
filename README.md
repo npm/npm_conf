@@ -19,6 +19,9 @@ Feel free to add more via PR.
 * npm for Front End
 	* what you can do right now
 		* browserify
+		* browserify-cdn
+		* lobrow.js
+		* requirebin
 		* atomify
 		* bower
 		* angular cli
@@ -48,4 +51,5 @@ Feel free to add more via PR.
 * stupid npm tricks
 	* beep boop
 * entertainment: dance.js 2.0.0!
+* Setup and Maintiance of Local NPM repository.
  
