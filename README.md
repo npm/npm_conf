@@ -55,4 +55,18 @@ Feel free to add more via PR.
 * stupid npm tricks
 	* beep boop
 * entertainment: dance.js 2.0.0!
- 
+* don't wait for gyp builds ever again with node-pre-gyp
+* browserify - finally understand this thing
+	* how to publish frontend code to npm
+	* the benefits of using commmon js require everywhere
+	* proof that sharing code between client, server, and build tools is not a pipe dream
+* the npm api and you
+ 	* what can you use the npm api for
+ 	* useful tools that use the npm api
+	* fun projects using the npm api
+* big data invades npm
+	* interesting look at the data in the public registry
+	* what package has the most dependences?
+	* what are the popular dev dependencies?
+	* lots of other interesting findings
+
