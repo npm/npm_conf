@@ -16,18 +16,22 @@ Feel free to add more via PR.
 * npm Enterprise
 	* what it is
 	* deployment case studies
-* npm for Front End
-	* what you can do right now
-		* browserify
-		* browserify-cdn
-		* lobrow.js
-		* requirebin
-		* atomify
-		* bower
-		* angular cli
-		* ember cli
-		* gulp/grunt
-	* what we're considering in future
+* npm read-through cache
+	* what it is
+	* how to use it
+* npm for Front End: CDN tools
+	* browserify-cdn
+	* wzrd.in
+	* requirebin
+* npm for Front-end: frameworks
+	* browserify
+	* atomify
+	* bower
+	* angular cli
+	* ember cli
+	* gulp/grunt
+* npm for Front-end: future directions
+	* modular CLI tools
 * npm tooling
 	* preinstall, postinstall best practices
 	* run scripts
@@ -51,5 +55,4 @@ Feel free to add more via PR.
 * stupid npm tricks
 	* beep boop
 * entertainment: dance.js 2.0.0!
-* Setup and Maintiance of Local NPM repository.
  
