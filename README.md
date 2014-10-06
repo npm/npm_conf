@@ -19,10 +19,14 @@ Feel free to add more via PR.
 * npm read-through cache
 	* what it is
 	* how to use it
+* browserify - finally understand this thing
+	* how to publish frontend code to npm
+	* the benefits of using commmon js require everywhere
+	* proof that sharing code between client, server, and build tools is not a pipe dream
 * npm for Front End: CDN tools
 	* browserify-cdn
 	* wzrd.in
-	* requirebin
+	* requirebin	
 * npm for Front-end: frameworks
 	* browserify
 	* atomify
@@ -36,6 +40,10 @@ Feel free to add more via PR.
 	* preinstall, postinstall best practices
 	* run scripts
 	* best git practices
+* cli 101: the npm api and you
+ 	* what can you use the npm api for
+ 	* useful tools that use the npm api
+	* fun projects using the npm api
 * cli architecture (@othyim23 melts your brain)
 	* overview
 	* current work
@@ -52,21 +60,12 @@ Feel free to add more via PR.
 	* using private modules to deploy prototypes
 * deploying services with ndm
 	* @benjamincoe blows your mind
-* stupid npm tricks
-	* beep boop
-* entertainment: dance.js 2.0.0!
-* don't wait for gyp builds ever again with node-pre-gyp
-* browserify - finally understand this thing
-	* how to publish frontend code to npm
-	* the benefits of using commmon js require everywhere
-	* proof that sharing code between client, server, and build tools is not a pipe dream
-* the npm api and you
- 	* what can you use the npm api for
- 	* useful tools that use the npm api
-	* fun projects using the npm api
 * big data invades npm
 	* interesting look at the data in the public registry
 	* what package has the most dependences?
 	* what are the popular dev dependencies?
 	* lots of other interesting findings
-
+* stupid npm tricks
+	* beep boop
+* entertainment: dance.js 2.0.0!
+* don't wait for gyp builds ever again with node-pre-gyp
