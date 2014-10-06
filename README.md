@@ -34,6 +34,7 @@ Feel free to add more via PR.
 	* angular cli
 	* ember cli
 	* gulp/grunt
+	* webpack
 * npm for Front-end: future directions
 	* modular CLI tools
 * npm tooling
